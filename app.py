@@ -5,8 +5,9 @@ Created on 11.12.2011
 '''
 from src import palindrome
 
+
 def main():
-    palindrome.main()    
+    palindrome.main()
 
 if __name__ == '__main__':
     main()
